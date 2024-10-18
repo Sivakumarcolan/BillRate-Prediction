@@ -1,1 +1,6 @@
--e .
+pandas
+numpy
+streamlit
+scikit-learn
+json
+
